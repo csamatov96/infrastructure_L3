@@ -1,5 +1,5 @@
 # infrastructure_april
-## The following Infrastructure as a Code contains provider.tf where u specify a region u wanna all that to be run in
+## The following Infrastructure as a Code contains provider.tf where u specify a region u want all that to be run in
 * Used variables so less hardcoding
 * It creates 2 instances: 1 for WEB purposes another one for DB purposes, 
 * WEB instance will be in a public subnet and a custom security group will be attached including userdata 
